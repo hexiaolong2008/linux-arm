@@ -1,2 +1,2 @@
 # linux-s3c
-linux for s3c2440
+linux 4.x for arm platform, cloned from Linux Archive Website.
